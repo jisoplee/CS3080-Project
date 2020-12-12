@@ -24,6 +24,7 @@ Important links:
   
 How to run Epic Dawn Bot:
   1. Download the files and run them on a Python environment (we use PyCharm).
+
     -NOTE: I can't post Epic Dawn Bot's token on the Internet for security reasons. For Dr. Yanyan, I will attach a new token to the final report.
   2. Run epicdawnbot.py. After a few seconds, the bot should say '
   3. You will need a Discord account. Click the discord.gg link in Important Links.
