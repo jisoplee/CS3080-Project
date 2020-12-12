@@ -1,0 +1,440 @@
+BP01-EN001	"Witch of the Black Forest"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN002	"Cyber Jar"	Rare
+Starfoil Rare	Flip monster
+BP01-EN003	"Jinzo"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN004	"Injection Fairy Lily"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN005	"Dark Dust Spirit"	Rare
+Starfoil Rare	Spirit monster
+BP01-EN006	"Skull Archfiend of Lightning"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN007	"Dark Magician of Chaos"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN008	"Blowback Dragon"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN009	"Mobius the Frost Monarch"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN010	"Fox Fire"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN011	"Ancient Gear Golem"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN012	"Treeborn Frog"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN013	"Super Conductor Tyranno"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN014	"Gorz the Emissary of Darkness"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN015	"Raiza the Storm Monarch"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN016	"White Night Dragon"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN017	"Deep Diver"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN018	"Caius the Shadow Monarch"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN019	"Krebons"	Rare
+Starfoil Rare	Effect Tuner monster
+BP01-EN020	"Tragoedia"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN021	"Obelisk the Tormentor"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN022	"Machina Fortress"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN023	"Tour Guide From the Underworld"	Rare
+Starfoil Rare	Effect Monster
+BP01-EN024	"Number 39: Utopia"	Rare
+Starfoil Rare	Effect Xyz Monster
+BP01-EN025	"Gachi Gachi Gantetsu"	Rare
+Starfoil Rare	Effect Xyz Monster
+BP01-EN026	"Grenosaurus"	Rare
+Starfoil Rare	Effect Xyz Monster
+BP01-EN027	"Number 17: Leviathan Dragon"	Rare
+Starfoil Rare	Effect Xyz Monster
+BP01-EN028	"Wind-Up Zenmaister"	Rare
+Starfoil Rare	Effect Xyz Monster
+BP01-EN029	"Tiras, Keeper of Genesis"	Rare
+Starfoil Rare	Effect Xyz Monster
+BP01-EN030	"Adreus, Keeper of Armageddon"	Rare
+Starfoil Rare	Effect Xyz Monster
+BP01-EN031	"Gem-Knight Pearl"	Rare
+Starfoil Rare	Xyz Monster
+BP01-EN032	"Raigeki"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN033	"Swords of Revealing Light"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN034	"Pot of Greed"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN035	"Harpie's Feather Duster"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN036	"Graceful Charity"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN037	"Change of Heart"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN038	"Heavy Storm"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN039	"Snatch Steal"	Rare
+Starfoil Rare	Equip Spell Card
+BP01-EN040	"Premature Burial"	Rare
+Starfoil Rare	Equip Spell Card
+BP01-EN041	"Soul Exchange"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN042	"Scapegoat"	Rare
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN043	"United We Stand"	Rare
+Starfoil Rare	Equip Spell Card
+BP01-EN044	"Creature Swap"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN045	"Burden of the Mighty"	Rare
+Starfoil Rare	Continuous Spell Card
+BP01-EN046	"Pot of Duality"	Rare
+Starfoil Rare	Normal Spell Card
+BP01-EN047	"Solemn Judgment"	Rare
+Starfoil Rare	Counter Trap Card
+BP01-EN048	"Mirror Force"	Rare
+Starfoil Rare	Normal Trap Card
+BP01-EN049	"Call of the Haunted"	Rare
+Starfoil Rare	Continuous Trap Card
+BP01-EN050	"Ring of Destruction"	Rare
+Starfoil Rare	Normal Trap Card
+BP01-EN051	"Torrential Tribute"	Rare
+Starfoil Rare	Normal Trap Card
+BP01-EN052	"Metal Reflect Slime"	Rare
+Starfoil Rare	Continuous Trap Card
+BP01-EN053	"Skill Drain"	Rare
+Starfoil Rare	Continuous Trap Card
+BP01-EN054	"Divine Wrath"	Rare
+Starfoil Rare	Counter Trap Card
+BP01-EN055	"Dark Bribe"	Rare
+Starfoil Rare	Counter Trap Card
+BP01-EN056	"Greenkappa"	Common
+Starfoil Rare	Flip monster
+BP01-EN057	"Penguin Soldier"	Common
+Starfoil Rare	Flip monster
+BP01-EN058	"Mysterious Guard"	Common
+Starfoil Rare	Flip monster
+BP01-EN059	"Exiled Force"	Common
+Starfoil Rare	Effect Monster
+BP01-EN060	"Old Vindictive Magician"	Common
+Starfoil Rare	Flip monster
+BP01-EN061	"Breaker the Magical Warrior"	Common
+Starfoil Rare	Effect Monster
+BP01-EN062	"Grave Squirmer"	Common
+Starfoil Rare	Effect Monster
+BP01-EN063	"Ryko, Lightsworn Hunter"	Common
+Starfoil Rare	Flip monster
+BP01-EN064	"Snowman Eater"	Common
+Starfoil Rare	Effect Monster
+BP01-EN065	"Fissure"	Common
+Starfoil Rare	Normal Spell Card
+BP01-EN066	"Tribute to The Doomed"	Common
+Starfoil Rare	Normal Spell Card
+BP01-EN067	"Axe of Despair"	Common
+Starfoil Rare	Equip Spell Card
+BP01-EN068	"Mystical Space Typhoon"	Common
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN069	"Horn of the Unicorn"	Common
+Starfoil Rare	Equip Spell Card
+BP01-EN070	"Offerings to the Doomed"	Common
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN071	"Bait Doll"	Common
+Starfoil Rare	Normal Spell Card
+BP01-EN072	"Book of Moon"	Common
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN073	"Autonomous Action Unit"	Common
+Starfoil Rare	Equip Spell Card
+BP01-EN074	"Ante"	Common
+Starfoil Rare	Normal Spell Card
+BP01-EN075	"Big Bang Shot"	Common
+Starfoil Rare	Equip Spell Card
+BP01-EN076	"Fiend's Sanctuary"	Common
+Starfoil Rare	Normal Spell Card
+BP01-EN077	"Different Dimension Gate"	Common
+Starfoil Rare	Continuous Spell Card
+BP01-EN078	"Enemy Controller"	Common
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN079	"Monster Gate"	Common
+Starfoil Rare	Normal Spell Card
+BP01-EN080	"Shield Crush"	Common
+Starfoil Rare	Normal Spell Card
+BP01-EN081	"Fighting Spirit"	Common
+Starfoil Rare	Equip Spell Card
+BP01-EN082	"Forbidden Chalice"	Common
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN083	"Darkworld Shackles"	Common
+Starfoil Rare	Equip Spell Card
+BP01-EN084	"Forbidden Lance"	Common
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN085	"Infected Mail"	Common
+Starfoil Rare	Continuous Spell Card
+BP01-EN086	"Ego Boost"	Common
+Starfoil Rare	Quick-Play Spell Card
+BP01-EN087	"Kunai with Chain"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN088	"Dust Tornado"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN089	"Windstorm of Etaqua"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN090	"Magic Drain"	Common
+Starfoil Rare	Counter Trap Card
+BP01-EN091	"Magic Cylinder"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN092	"Shadow Spell"	Common
+Starfoil Rare	Continuous Trap Card
+BP01-EN093	"Blast with Chain"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN094	"Needle Ceiling"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN095	"Reckless Greed"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN096	"Nightmare Wheel"	Common
+Starfoil Rare	Continuous Trap Card
+BP01-EN097	"Spell Shield Type-8"	Common
+Starfoil Rare	Counter Trap Card
+BP01-EN098	"Interdimensional Matter Transporter"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN099	"Compulsory Evacuation Device"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN100	"Prideful Roar"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN101	"Half or Nothing"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN102	"Skill Successor"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN103	"Pixie Ring"	Common
+Starfoil Rare	Continuous Trap Card
+BP01-EN104	"Changing Destiny"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN105	"Fiendish Chain"	Common
+Starfoil Rare	Continuous Trap Card
+BP01-EN106	"Inverse Universe"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN107	"Miracle's Wake"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN108	"Power Frame"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN109	"Damage Gate"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN110	"Liberty at Last!"	Common
+Starfoil Rare	Normal Trap Card
+BP01-EN111	"Luster Dragon"	Common
+Starfoil Rare	Normal Monster
+BP01-EN112	"Archfiend Soldier"	Common
+Starfoil Rare	Normal Monster
+BP01-EN113	"Mad Dog of Darkness"	Common
+Starfoil Rare	Normal Monster
+BP01-EN114	"Charcoal Inpachi"	Common
+Starfoil Rare	Normal Monster
+BP01-EN115	"Insect Knight"	Common
+Starfoil Rare	Normal Monster
+BP01-EN116	"Gene-Warped Warwolf"	Common
+Starfoil Rare	Normal Monster
+BP01-EN117	"Buster Blader"	Common
+Starfoil Rare	Effect Monster
+BP01-EN118	"Goblin Attack Force"	Common
+Starfoil Rare	Effect Monster
+BP01-EN119	"Bazoo the Soul-Eater"	Common
+Starfoil Rare	Effect Monster
+BP01-EN120	"Zombyra the Dark"	Common
+Starfoil Rare	Effect Monster
+BP01-EN121	"Slate Warrior"	Common
+Starfoil Rare	Flip monster
+BP01-EN122	"Dark Ruler Ha Des"	Common
+Starfoil Rare	Effect Monster
+BP01-EN123	"Freed the Matchless General"	Common
+Starfoil Rare	Effect Monster
+BP01-EN124	"Airknight Parshath"	Common
+Starfoil Rare	Effect Monster
+BP01-EN125	"Asura Priest"	Common
+Starfoil Rare	Spirit monster
+BP01-EN126	"Exarion Universe"	Common
+Starfoil Rare	Effect Monster
+BP01-EN127	"Vampire Lord"	Common
+Starfoil Rare	Effect Monster
+BP01-EN128	"Toon Gemini Elf"	Common
+Starfoil Rare	Toon monster
+BP01-EN129	"King Tiger Wanghu"	Common
+Starfoil Rare	Effect Monster
+BP01-EN130	"Guardian Sphinx"	Common
+Starfoil Rare	Effect Monster
+BP01-EN131	"Skilled White Magician"	Common
+Starfoil Rare	Effect Monster
+BP01-EN132	"Zaborg the Thunder Monarch"	Common
+Starfoil Rare	Effect Monster
+BP01-EN133	"D.D. Assailant"	Common
+Starfoil Rare	Effect Monster
+BP01-EN134	"Theban Nightmare"	Common
+Starfoil Rare	Effect Monster
+BP01-EN135	"The Tricky"	Common
+Starfoil Rare	Effect Monster
+BP01-EN136	"Raging Flame Sprite"	Common
+Starfoil Rare	Effect Monster
+BP01-EN137	"Chiron the Mage"	Common
+Starfoil Rare	Effect Monster
+BP01-EN138	"Cyber Dragon"	Common
+Starfoil Rare	Effect Monster
+BP01-EN139	"Cybernetic Magician"	Common
+Starfoil Rare	Effect Monster
+BP01-EN140	"Goblin Elite Attack Force"	Common
+Starfoil Rare	Effect Monster
+BP01-EN141	"Doomcaliber Knight"	Common
+Starfoil Rare	Effect Monster
+BP01-EN142	"Chainsaw Insect"	Common
+Starfoil Rare	Effect Monster
+BP01-EN143	"Card Trooper"	Common
+Starfoil Rare	Effect Monster
+BP01-EN144	"Voltic Kong"	Common
+Starfoil Rare	Effect Monster
+BP01-EN145	"Botanical Lion"	Common
+Starfoil Rare	Effect Monster
+BP01-EN146	"Ancient Gear Knight"	Common
+Starfoil Rare	Gemini monster
+BP01-EN147	"Blizzard Dragon"	Common
+Starfoil Rare	Effect Monster
+BP01-EN148	"Beast King Barbaros"	Common
+Starfoil Rare	Effect Monster
+BP01-EN149	"The Calculator"	Common
+Starfoil Rare	Effect Monster
+BP01-EN150	"Gaap the Divine Soldier"	Common
+Starfoil Rare	Effect Monster
+BP01-EN151	"Arcana Force XIV - Temperance"	Common
+Starfoil Rare	Effect Monster
+BP01-EN152	"Dark Valkyria"	Common
+Starfoil Rare	Gemini monster
+BP01-EN153	"Alector, Sovereign of Birds"	Common
+Starfoil Rare	Effect Monster
+BP01-EN154	"Twin-Barrel Dragon"	Common
+Starfoil Rare	Effect Monster
+BP01-EN155	"Abyssal Kingshark"	Common
+Starfoil Rare	Effect Monster
+BP01-EN156	"Jurrac Protops"	Common
+Starfoil Rare	Effect Monster
+BP01-EN157	"Hedge Guard"	Common
+Starfoil Rare	Effect Monster
+BP01-EN158	"Fabled Ashenveil"	Common
+Starfoil Rare	Effect Monster
+BP01-EN159	"Backup Warrior"	Common
+Starfoil Rare	Effect Monster
+BP01-EN160	"Ambitious Gofer"	Common
+Starfoil Rare	Effect Monster
+BP01-EN161	"Power Giant"	Common
+Starfoil Rare	Effect Monster
+BP01-EN162	"Card Guard"	Common
+Starfoil Rare	Effect Monster
+BP01-EN163	"Yaksha"	Common
+Starfoil Rare	Spirit monster
+BP01-EN164	"Gogogo Golem"	Common
+Starfoil Rare	Effect Monster
+BP01-EN165	"Big Jaws"	Common
+Starfoil Rare	Effect Monster
+BP01-EN166	"Wind-Up Soldier"	Common
+Starfoil Rare	Effect Monster
+BP01-EN167	"Wind-Up Dog"	Common
+Starfoil Rare	Effect Monster
+BP01-EN168	"Milla the Temporal Magician"	Common
+Starfoil Rare	Effect Monster
+BP01-EN169	"Ape Fighter"	Common
+Starfoil Rare	Effect Monster
+BP01-EN170	"Wind-Up Warrior"	Common
+Starfoil Rare	Effect Monster
+BP01-EN171	"Giant Soldier of Stone"	Common
+Starfoil Rare	Normal Monster
+BP01-EN172	"Mask of Darkness"	Common
+Starfoil Rare	Flip monster
+BP01-EN173	"Morphing Jar"	Common
+Starfoil Rare	Flip monster
+BP01-EN174	"Muka Muka"	Common
+Starfoil Rare	Effect Monster
+BP01-EN175	"Blast Sphere"	Common
+Starfoil Rare	Effect Monster
+BP01-EN176	"Big Shield Gardna"	Common
+Starfoil Rare	Effect Monster
+BP01-EN177	"Gilasaurus"	Common
+Starfoil Rare	Effect Monster
+BP01-EN178	"Possessed Dark Soul"	Common
+Starfoil Rare	Effect Monster
+BP01-EN179	"Twin-Headed Behemoth"	Common
+Starfoil Rare	Effect Monster
+BP01-EN180	"Makyura the Destructor"	Common
+Starfoil Rare	Effect Monster
+BP01-EN181	"Helping Robo for Combat"	Common
+Starfoil Rare	Effect Monster
+BP01-EN182	"Zolga"	Common
+Starfoil Rare	Effect Monster
+BP01-EN183	"Chaos Necromancer"	Common
+Starfoil Rare	Effect Monster
+BP01-EN184	"Stealth Bird"	Common
+Starfoil Rare	Effect Monster
+BP01-EN185	"Hyper Hammerhead"	Common
+Starfoil Rare	Effect Monster
+BP01-EN186	"Grave Protector"	Common
+Starfoil Rare	Effect Monster
+BP01-EN187	"Night Assailant"	Common
+Starfoil Rare	Flip monster
+BP01-EN188	"Pitch-Black Warwolf"	Common
+Starfoil Rare	Effect Monster
+BP01-EN189	"Dekoichi the Battlechanted Locomotive"	Common
+Starfoil Rare	Flip monster
+BP01-EN190	"Gyroid"	Common
+Starfoil Rare	Effect Monster
+BP01-EN191	"Drillroid"	Common
+Starfoil Rare	Effect Monster
+BP01-EN192	"Gravitic Orb"	Common
+Starfoil Rare	Flip monster
+BP01-EN193	"Cloudian - Poison Cloud"	Common
+Starfoil Rare	Effect Monster
+BP01-EN194	"Des Mosquito"	Common
+Starfoil Rare	Effect Monster
+BP01-EN195	"Mad Reloader"	Common
+Starfoil Rare	Effect Monster
+BP01-EN196	"Phantom of Chaos"	Common
+Starfoil Rare	Effect Monster
+BP01-EN197	"Cyber Valley"	Common
+Starfoil Rare	Effect Monster
+BP01-EN198	"Blue Thunder T-45"	Common
+Starfoil Rare	Effect Monster
+BP01-EN199	"Vortex Trooper"	Common
+Starfoil Rare	Effect Monster
+BP01-EN200	"DUCKER Mobile Cannon"	Common
+Starfoil Rare	Flip monster
+BP01-EN201	"Worm Barses"	Common
+Starfoil Rare	Effect Monster
+BP01-EN202	"Shield Warrior"	Common
+Starfoil Rare	Effect Monster
+BP01-EN203	"Dark Resonator"	Common
+Starfoil Rare	Effect Tuner monster
+BP01-EN204	"Noisy Gnat"	Common
+Starfoil Rare	Effect Monster
+BP01-EN205	"Fabled Raven"	Common
+Starfoil Rare	Effect Tuner monster
+BP01-EN206	"Fortress Warrior"	Common
+Starfoil Rare	Effect Monster
+BP01-EN207	"Twin-Sword Marauder"	Common
+Starfoil Rare	Effect Monster
+BP01-EN208	"Level Warrior"	Common
+Starfoil Rare	Effect Monster
+BP01-EN209	"Level Eater"	Common
+Starfoil Rare	Effect Monster
+BP01-EN210	"Naturia Strawberry"	Common
+Starfoil Rare	Effect Monster
+BP01-EN211	"Battle Fader"	Common
+Starfoil Rare	Effect Monster
+BP01-EN212	"Amazoness Sage"	Common
+Starfoil Rare	Effect Monster
+BP01-EN213	"Amazoness Trainee"	Common
+Starfoil Rare	Effect Monster
+BP01-EN214	"Hardened Armed Dragon"	Common
+Starfoil Rare	Effect Monster
+BP01-EN215	"Blackwing - Zephyros the Elite"	Common
+Starfoil Rare	Effect Monster
+BP01-EN216	"Tanngrisnir of the Nordic Beasts"	Common
+Starfoil Rare	Effect Monster
+BP01-EN217	"Shine Knight"	Common
+Starfoil Rare	Effect Monster
+BP01-EN218	"Gagaga Magician"	Common
+Starfoil Rare	Effect Monster
+BP01-EN219	"Goblindbergh"	Common
+Starfoil Rare	Effect Monster
+BP01-EN220	"Psi-Blocker"	Common
+Starfoil Rare	Effect Monster
