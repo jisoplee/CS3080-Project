@@ -15,8 +15,10 @@ GitHub repository contents:
   BP_Epic_Dawn.txt - text file used to generate card database
   
 Important links:
-  https://discord.gg/k5HjCvJSrD - Discord channel (running epicdawnbot.py will connect the bot to Discord and run bot commands).
-  https://duelingbook.com/html5 - Third-party site that emulates virtual Yu-Gi-Oh matches.
+
+  https://discord.gg/k5HjCvJSrD - Discord channel (running epicdawnbot.py will connect the bot to Discord and run bot commands). Requires account.
+
+  https://duelingbook.com/html5 - Third-party site that emulates virtual Yu-Gi-Oh matches. Requires account.
   
 How to run Epic Dawn Bot:
   1. Download the files and run them on a Python environment (we use PyCharm).
