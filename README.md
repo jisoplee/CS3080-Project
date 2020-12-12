@@ -1,5 +1,6 @@
 # CS3080-Project
 For CS3080 Fall 2020 Python Project
+Contributors: Ben Martin, Jisop Lee
 
 About Epic Dawn Bot:
   Epic Dawn Bot is a sealed play deck generator for the Yu-Gi-Oh! Trading Card Game set Battle Pack: Epic Dawn. It gathers people for a tournament (ideally with 2 or more players, but you can enter as just 1 for testing purposes), and sends via DM (direct message) the contents of 10 Battle Pack: Epic Dawn packs and a .ydk file of all 50 cards pulled. The .ydk file can be imported into virtual cards on Dueling Book, a third-party website that emulates virtual Yu-Gi-Oh matches.
