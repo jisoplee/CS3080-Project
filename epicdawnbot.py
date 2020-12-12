@@ -270,4 +270,4 @@ async def commands(context):
 
     await context.message.channel.send(content=message)
 
-client.run('Nzg2OTQ4ODE5MDYwMjYwODg2.X9N1Mw.d5p-SVt4XOPIw5yMPe1hX19WYrM')
+client.run('')
