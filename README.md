@@ -24,11 +24,12 @@ Important links:
   
 How to run Epic Dawn Bot:
   1. Download the files and run them on a Python environment (we use PyCharm).
-  2. Run epicdawnbot.py. After a few seconds, the bot should say '
-  3. You will need a Discord account. Click the discord.gg link in Important Links.
-  4. Once you've joined the server, Epic Dawn Bot should welcome you.
-  5. Go to the #bot-commands channel and enter !commands.
-  6. To start a solo tournament, enter !new, !join, and then !begin.
+  2. In line 273 of epicdawn.py, fill the empty string in client.run('') with the bot token (provided in final report).
+  3. Run epicdawnbot.py. After a few seconds, the bot should say 'Epic Dawn Bot is online and running.' in the Python terminal.
+  4. You will need a Discord account. Click the discord.gg link in Important Links.
+  5. Once you've joined the server, Epic Dawn Bot should welcome you.
+  6. Go to the #bot-commands channel and enter !commands.
+  7. To start a solo tournament, enter !new, !join, and then !begin.
   
 NOTES:
   1. I cannot disclose Epic Dawn Bot's token to the Internet for security reasons. For Dr. Yanyan, I will attach it to the final report that won't be submitted here.
